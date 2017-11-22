@@ -2,7 +2,7 @@ require 'sinatra.rb'
 require 'tilt/erb'
 
 get '/' do
-  'Hello World!'
+  'Hello Fiona!'
 end
 
 get '/hello/:name' do
