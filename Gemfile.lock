@@ -24,6 +24,7 @@ DEPENDENCIES
   rack-test
   rake
   sinatra
+  tilt
 
 RUBY VERSION
    ruby 2.4.2p198
