@@ -8,7 +8,7 @@ rackup
 ```
 OR
 ```
-rackup -p <em><port></em>
+rackup -p [port]
 ```
 
 To tun the tests:
