@@ -9,7 +9,7 @@ end
 describe "hello world app" do
   it "should successfully return a greeting" do
     get '/'
-    last_response.body.must_include 'Hello World!'
+    last_response.body.must_include 'Hello Fiona!'
   end
 
   it "should return a personalised greeting" do
