@@ -14,6 +14,6 @@ describe "hello world app" do
 
   it "should return a personalised greeting" do
     get '/hello/Fiona'
-    last_response.body.must_include 'Welcome Fiona!'
+    last_response.body.must_include 'Hello Fiona!'
   end
 end
